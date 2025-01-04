@@ -1,6 +1,8 @@
+# NAME:G aravind
+# REG NO:24003742
+
+# EXPERIMENT 6
 # Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
-### NAME: ARAVIND G
-### REG NO: 24003742
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
